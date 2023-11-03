@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   fk_user_agent: ^2.0.1
-  http: ^0.13.5
+  http: ^1.1.0
   uuid: ^3.0.3
   package_info_plus: ^4.0.0
   shared_preferences: ^2.0.5
